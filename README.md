@@ -36,10 +36,8 @@
 
 ### [파이썬에서 변수]()
 <ul>
-  <li>변수이름 = 값 &ensp; </li>
+  <li>변수이름 = 값 &ensp; x=1</li>
   <li> 왼쪽은 항상 변수이름 </li>
-
-  <li> x=1; y=3.14; z='hi'; b=True; </li>
 </ul>
 
 ### [자료형(Data Type)](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
