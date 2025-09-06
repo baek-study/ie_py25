@@ -25,20 +25,18 @@
 
 <br>
 
-## [2주차 강의&nbsp;-&nbsp;변수와 표준입력함수]()
+## [2주차 강의&nbsp;-&nbsp;변수와 자료형]()
 
-### [변수 개념]()
+### [변수(variable)]()
 <ul>
   <li>변수 : 데이터를 저장하는 공간 </li>
-  <li>이름 규칙 : 알파벳(a~z, A~Z), 숫자(0~9), 밑줄(_)로 구성 </li>
-  <li> 시작시 숫자 안됨, 이름내 공백 안됨, 예약어 안됨 </li>
+  <li>이름 규칙 : 알파벳(a~z, A~Z), 숫자(0~9), 밑줄(_)로 구성 <br>
+  &ensp;- 시작시 숫자 안됨, 이름내 공백 안됨, 예약어 안됨 </li>
+   <li>정의 : 변수이름 = 값 <br>
+     ex) x = 100 &ensp; 변수이름은 왼쪽
+    </li> 
 </ul>
 
-### [파이썬에서 변수]()
-<ul>
-  <li>변수이름 = 값 &ensp; ex) x=1</li>
-  <li> 왼쪽은 항상 변수이름 </li>
-</ul>
 
 ### [자료형(Data Type)](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
