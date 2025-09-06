@@ -44,12 +44,10 @@
 
 ### [자료형(Data Type)](https://github.com/baek-study/python_mon/blob/main/source/week2_mju_mon.ipynb)
 <ul>
-  <li> 정수/int : print(123); print(123_456);</li>
-  <li>  실수/float : print(3.14);print(3.14e12); </li>
-  <li>  문자열/str: print("hello");print('100'+'200');</li>
-  <li>  논리/bool: print(True); print(False);</li>
+  <li> 정수(123), 실수(3.14, 3.14e12) </li>
+  <li>  문자열("hi", 'hi'), 논리(True,False </li>
   <li>  자료형 확인 type() : type(1234) </li>
-  <li>  정수로 변환int() : int("100")   </li>
+  <li>  정수로 변환 int() : int("100")   </li>
 </ul>
 
 ### [표준 입력함수 input()]()
