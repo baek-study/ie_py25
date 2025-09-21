@@ -104,8 +104,8 @@
 <br>
 
 
-## [3주차 강의&nbsp;-&nbsp; 연산자]()
-### [산술 연산자]()
+## [3주차 강의&nbsp;-&nbsp; 연산자](https://github.com/baek-study/ie_py25/blob/main/source/week3_mju.ipynb)
+### [산술 연산자](https://github.com/baek-study/ie_py25/blob/main/source/week2_mju.ipynb)
 <ul>
   <li> + - * / (사칙연산) <br> 
   - 나눗셈 결과는 실수 &ensp; ex) 2/2 = 1.0 </li>
@@ -114,7 +114,7 @@
   - 나머지&ensp; % &ensp; ex) 5%3 = 2</li>
 </ul>
 
-### [할당/복합 연산자]()
+### [할당/복합 연산자](https://github.com/baek-study/ie_py25/blob/main/source/week2_mju.ipynb)
 <ul>
   <li> x = 10 # 왼쪽 변수공간에 오른쪽 값 할당 </li>
   <li>다중 할당 : x=y=z=1 <br>
@@ -126,7 +126,7 @@
   </li>
 </ul>
 
-### [관계 연산자]()
+### [관계 연산자](https://github.com/baek-study/ie_py25/blob/main/source/week2_mju.ipynb)
 <ul>
   <li> == != (동등)  <br>
   - ==(같다), !=(같지않다)</li>
@@ -134,14 +134,7 @@
   - >=, <=에서 =가 항상 뒤 </li>
 </ul>
 
-### [논리 연산자]()
-<ul>
-  <li> and or not<br>
-  - and(모두 참이면 참)<br>
-  - or (하나만 참이어도 참) </li>
-</ul>
-
-### [연산자 우선순위]()
+### [연산자 우선순위](https://github.com/baek-study/ie_py25/blob/main/source/week2_mju.ipynb)
 <ul>
   <li> 산술 > 관계 > 논리 > 할당/대입 <br>
   - (&ensp;) 는 우선순위가 가장 높음</li>
