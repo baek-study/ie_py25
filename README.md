@@ -39,7 +39,9 @@
   </li>
 </ul>
 
+<br>
 
+<br>
 
 
 ## [1주차 강의 &nbsp;-&nbsp;파이썬 소개]()
@@ -54,7 +56,6 @@
 
 <br>
 
-<br>
 
 ## [2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/ie_py25/blob/main/source/week2_mju.ipynb)
 
