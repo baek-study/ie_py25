@@ -4,7 +4,7 @@
 
 <hr size = "10px", width ="500px">
 
-## [7주차 강의&nbsp;-&nbsp;다중조건문]()
+## [7주차 강의&nbsp;-&nbsp;다중조건문](https://github.com/baek-study/ie_py25/blob/main/source/week7_mju.ipynb)
 
 ### [중첩 if 문 - if 안에 if](https://github.com/baek-study/ie_py25/blob/main/source/week7_mju.ipynb)  
 <ul>
