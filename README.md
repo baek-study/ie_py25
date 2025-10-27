@@ -10,7 +10,7 @@
 ## [9주차 강의&nbsp;-&nbsp;반복문]()
 
 <ul>
-  <li> <b>제어키워드</b> 제어조건 <b>:(콜론)</b>  &ensp;&nbsp; #헤더<br>
+  <li> <b>제어키워드</b> 제어조건 <b>:</b>  &ensp;&nbsp; #헤더<br>
     &ensp;&ensp;&ensp;&ensp;들여쓰기된_문장  &ensp;&nbsp;  # 스위트 
   </li>
 </ul>
