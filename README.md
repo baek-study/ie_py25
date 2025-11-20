@@ -4,31 +4,55 @@
 
 <hr size = "10px", width ="500px">
 
-## [11주차 강의&nbsp;-&nbsp;함수1](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+## [12주차 강의&nbsp;-&nbsp;함수와 모듈](https://github.com/baek-study/ie_py25/blob/main/source/week12_mju.ipynb)
 
-### [함수 정의&함수 호출](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+### [인수유형 ](https://github.com/baek-study/ie_py25/blob/main/source/week12_mju.ipynb)
 <ul>
-<li>함수 정의 <br>
-  &nbsp; <b>def</b> get_area(radius) <b>:</b> <br>
-  &nbsp; &nbsp; area = radius*radius*3.14 <br>
-  &nbsp;&nbsp;  <b>return</b> area
-  <br>
-</li>  
-<li>함수 호출 <br>
-   &nbsp; result = get_area(10)
-   <br>
+<li>  위치 인수 : 순서대로 값을 전달 </li>  
+<li> 기본값 인수 : 함수 정의시 기본값이 설정</li>
+<li> 키워드 인수 : 함수 호출시 '키워드 = 값' </li>
+<li> 가변 인수 : 인수의 갯수가 정해지지 않음</li>
 </li>
 </ul>
 
-### [매개변수&반환값](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+### [함수와 리스트 ](https://github.com/baek-study/ie_py25/blob/main/source/week12_mju.ipynb)
 <ul>
-  <li><b>매개변수:</b> 함수 정의시 값을 전달받는 변수  <br>
-  <b>인수:</b> 함수 호출시 실제로 전달되는 값    </li>
-  <li><b>반환값:</b>(함수 정의) 함수 결과로 돌려주는 값 <br> 
-  <b>결과변수:</b> 함수호출 후 결과대입   </li>
+  <li> 매개변수로 리스트 :  </li>
+  - def func1(para_list) :<br>
+  - 매개변수와 호출시 인수리스트는 동일
+  <li>리턴형으로 리스트 :</li>
+  - lst = create_list() <br>
+  - 함수 내 리턴 리스트와 결과변수 리스트는 동일
 </ul>
 
+### [지역변수vs전역변수](https://github.com/baek-study/ie_py25/blob/main/source/week12_mju.ipynb)
+<ul>
+<li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
+  &nbsp; - 함수내에서만 사용 가능
+</li>
+<li> <b>전역변수</b> : 함수<b>외</b>에서 생성된 변수 <br>
+  &nbsp; - 모든 함수에서 사용 가능<br>
+  &nbsp; - 함수 내에서 변경시: <b>global</b> 키워드 <br>
+</li>
+</ul>
+
+### [모듈(module)](https://github.com/baek-study/ie_py25/blob/main/source/week12_mju.ipynb)
+<ul>
+<li> 연관된 함수와 변수를 모아 놓은 파일(.py) </li>
+<li> 모듈 가져오는 방법<br>
+- <b>import</b> random  <br>
+- <b>import</b> random <b>as</b> rd    <br>
+- <b>from</b> random <b>import</b> randint  <br>
+- <b>from</b> random <b>import</b> randint <b>as</b> rdi <br>
+- <b>from</b> random <b>import *</b>   <br>
+<li> 모듈 종류 <br>
+- 사용자 정의, 표준 모듈, 외부 모듈 <br>
+- 사용자 정의 : 직접만든 파일 <br> ex) calc_area.py
+</ul>
 <br>
+
+
+
 
 
 
@@ -334,6 +358,32 @@
 <ul>
 <li> break : 반복문 탈출 </li>
 <li>continue : 반복 다시 시작 </li>
+</ul>
+
+<br>
+
+## [11주차 강의&nbsp;-&nbsp;함수1](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+
+### [함수 정의&함수 호출](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+<ul>
+<li>함수 정의 <br>
+  &nbsp; <b>def</b> get_area(radius) <b>:</b> <br>
+  &nbsp; &nbsp; area = radius*radius*3.14 <br>
+  &nbsp;&nbsp;  <b>return</b> area
+  <br>
+</li>  
+<li>함수 호출 <br>
+   &nbsp; result = get_area(10)
+   <br>
+</li>
+</ul>
+
+### [매개변수&반환값](https://github.com/baek-study/ie_py25/blob/main/source/week11_mju.ipynb)
+<ul>
+  <li><b>매개변수:</b> 함수 정의시 값을 전달받는 변수  <br>
+  <b>인수:</b> 함수 호출시 실제로 전달되는 값    </li>
+  <li><b>반환값:</b>(함수 정의) 함수 결과로 돌려주는 값 <br> 
+  <b>결과변수:</b> 함수호출 후 결과대입   </li>
 </ul>
 
 <br>
