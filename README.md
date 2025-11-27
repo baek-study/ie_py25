@@ -27,9 +27,12 @@
 ### [파일쓰기]()
 <ul>
 <li>write() : 모든 내용을 하나의 문자열로 반환 </li>
-<li>readlines() : 모든 내용을 리스트로 반환  </li>
-<li>for line in f: &ensp;# 한 줄씩 처리
-&ensp;&ensp;print(line) </li>
+</ul>
+
+### [예외처리]()
+<ul>
+<li> try: ~  
+ &ensp;except(오류): ~ </li>
 </ul>
 
 <br>
