@@ -31,7 +31,7 @@
 
 ### [예외처리]()
 <ul>
-<li> try: ~  
+<li> try: ~  <br>
  &ensp;except(오류): ~ </li>
 </ul>
 
