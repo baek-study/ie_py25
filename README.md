@@ -10,7 +10,7 @@
 <ul>
 <li>의미: 키와 값 쌍, { } 사용, 순서 X </li>
 <li>생성: d=['a':'apple', 'b':'banana']  </li>
-<li>접근: d['a']&ensp; # 딕셔너리[키] 사용  </li>
+<li>접근: d['a']&ensp; # 딕셔너리[키]   </li>
 <li>추가: d['g'] = 'graph'  </li>
 <li>수정: d['b'] ='blueberry' </li>  
 <li>유효성 검사 : 'a' <b>in</b> d # not in  </li>    
