@@ -9,7 +9,7 @@
 ### [파일]()
 <ul>
 <li>파일모드: r(읽기), w(쓰기), a(추가) </li>
-<li>with open('file_name', 'r') as f: <br>
+<li><b>with</b> open('file_name', 'r') <b>as</b> f<b>:</b> <br>
   &ensp; 파일 열고, 닫는 안전한 방법
   &ensp; encoding = 'utf-8' #cp949 
 </li>  
