@@ -32,7 +32,7 @@
 ### [예외처리]()
 <ul>
 <li> try: ~  <br>
- &ensp;except(오류): ~ </li>
+except(오류): ~ </li>
 </ul>
 
 <br>
