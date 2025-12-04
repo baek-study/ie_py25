@@ -4,7 +4,7 @@
 
 <hr size = "10px", width ="500px">
 
-## [14주차 강의&nbsp;-&nbsp;파일&예외처리]()
+## [14주차 강의&nbsp;-&nbsp;파일](https://github.com/baek-study/ie_py25/blob/main/source/week14_mju.ipynb)
 
 ### [파일]()
 <ul>
@@ -16,7 +16,7 @@
 
 </ul>
 
-### [파일 읽기]()
+### [파일 읽기](https://github.com/baek-study/ie_py25/blob/main/source/week14_mju.ipynb)
 <ul>
 <li>read() : 모든 내용을 하나의 문자열로 반환 </li>
 <li>readlines() : 모든 내용을 리스트로 반환  </li>
@@ -24,19 +24,19 @@
 &ensp;&ensp;print(line) </li>
 </ul>
 
-### [파일쓰기]()
+### [파일쓰기](https://github.com/baek-study/ie_py25/blob/main/source/week14_mju.ipynb)
 <ul>
 <li>write() : 모든 내용을 하나의 문자열로 반환 </li>
 <li>writelines() : 문자열 리스트를 쓰기 </li>
 </ul>
 
-### [데이터 정제]()
+### [데이터 정제](https://github.com/baek-study/ie_py25/blob/main/source/week14_mju.ipynb)
 <ul>
 <li>문자열.strip() : 공백문자(빈칸, \n 등) 제거 </li>
 <li>문자열.split(구분자) : 구분자로 나누기 </li>
 </ul>
 
-### [예외처리]()
+### [예외처리](https://github.com/baek-study/ie_py25/blob/main/source/week14_mju.ipynb)
 <ul>
 <li> try: ~  <br>
 except(오류): ~ </li>
